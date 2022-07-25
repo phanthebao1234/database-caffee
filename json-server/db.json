@@ -1,0 +1,181 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Phan The Bao",
+      "phoneNumber": "012314556",
+      "email": "bao@gmail.com",
+      "password": "1234567abc"
+    },
+    {
+      "fullName": "Phan Thế Bảo",
+      "phoneNumber": 357432472,
+      "email": "baophan@gmail.com",
+      "password": "baophan123",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Bạc Sỉu Đá",
+      "image": "bacsiuda.jpg",
+      "category": "Cà Phê Việt Nam",
+      "price": 29,
+      "quantity": 0,
+      "description": "Bạc sỉu chính là \"Ly sữa trắng kèm một chút cà phê\". Thức uống này rất phù hợp những ai vừa muốn trải nghiệm chút vị đắng của cà phê vừa muốn thưởng thức vị ngọt béo ngậy từ sữa."
+    },
+    {
+      "id": 2,
+      "name": "Bạc Sỉu Nóng",
+      "image": "bacsiunong.jpg",
+      "category": "Cà Phê Việt Nam",
+      "price": 35,
+      "quantity": 0,
+      "description": "Bạc sỉu chính là \"Ly sữa trắng kèm một chút cà phê\". Thức uống này rất phù hợp những ai vừa muốn trải nghiệm chút vị đắng của cà phê vừa muốn thưởng thức vị ngọt béo ngậy từ sữa."
+    },
+    {
+      "id": 3,
+      "name": "Cà Phê Đen Đá",
+      "image": "caphedenda.jpg",
+      "category": "Cà Phê Việt Nam",
+      "price": 29,
+      "quantity": 0,
+      "description": "Không ngọt ngào như Bạc sỉu hay Cà phê sữa, Cà phê đen mang trong mình phong vị trầm lắng, thi vị hơn. Người ta thường phải ngồi rất lâu mới cảm nhận được hết hương thơm ngào ngạt, phảng phất mùi cacao và cái đắng mượt mà trôi tuột xuống vòm họng."
+    },
+    {
+      "id": 4,
+      "name": "Cà Phê Đen Nóng",
+      "price": 35,
+      "quantity": 0,
+      "image": "caphedennong.jpg",
+      "category": "Cà Phê Việt Nam",
+      "description": "Không ngọt ngào như Bạc sỉu hay Cà phê sữa, Cà phê đen mang trong mình phong vị trầm lắng, thi vị hơn. Người ta thường phải ngồi rất lâu mới cảm nhận được hết hương thơm ngào ngạt, phảng phất mùi cacao và cái đắng mượt mà trôi tuột xuống vòm họng."
+    },
+    {
+      "id": 5,
+      "name": "Cà Phê Sữa Đá",
+      "image": "caphesuada.jpg",
+      "category": "Cà Phê Việt Nam",
+      "price": 29,
+      "quantity": 0,
+      "description": "Cà phê được pha phin truyền thống kết hợp với sữa đặc tạo nên hương vị đậm đà, hài hòa giữa vị ngọt đầu lưỡi và vị đắng thanh thoát nơi hậu vị."
+    },
+    {
+      "id": 6,
+      "name": "Cà Phê Sữa Đá Chai Fresh 250ml",
+      "image": "caphesuadachaifresh.jpg",
+      "category": "Cà Phê Việt Nam",
+      "quantity": 0,
+      "price": 75,
+      "description": "Vẫn là hương vị cà phê sữa đậm đà truyền thống từ cà phê Đắk Lắk nhưng khoác lên mình một chiếc áo mới tiện lợi hơn, tiết kiệm hơn giúp bạn tận hưởng một ngày dài trọn vẹn."
+    },
+    {
+      "id": 7,
+      "name": "Espresso Nóng",
+      "image": "espressonong.jpg",
+      "category": "Cà Phê Máy",
+      "price": 39,
+      "quantity": 0,
+      "description": "Một tách Espresso nguyên bản được bắt đầu bởi những hạt Arabica chất lượng, phối trộn với tỉ lệ cân đối hạt Robusta, cho ra vị ngọt caramel, vị chua dịu và sánh đặc."
+    },
+    {
+      "id": 8,
+      "name": "Espresso Đá",
+      "image": "espressoda.jpg",
+      "category": "Cà Phê Máy",
+      "price": 45,
+      "quantity": 0,
+      "description": "Một tách Espresso nguyên bản được bắt đầu bởi những hạt Arabica chất lượng, phối trộn với tỉ lệ cân đối hạt Robusta, cho ra vị ngọt caramel, vị chua dịu và sánh đặc."
+    },
+    {
+      "id": 9,
+      "name": "Cappuccino Nóng",
+      "image": "cappuccinonong.jpg",
+      "category": "Cà Phê Máy",
+      "price": 49,
+      "quantity": 0,
+      "description": "Cappuchino là thức uống hòa quyện giữa hương thơm của sữa, vị béo của bọt kem cùng vị đậm đà từ cà phê Espresso. Tất cả tạo nên một hương vị đặc biệt, nhẹ nhàng, trầm lắng và tinh tế."
+    },
+    {
+      "id": 10,
+      "name": "Cappuccino Đá",
+      "price": 49,
+      "quantity": 0,
+      "image": "cappuccinoda.jpg",
+      "category": "Cà Phê Máy",
+      "description": "Cappuchino là thức uống hòa quyện giữa hương thơm của sữa, vị béo của bọt kem cùng vị đậm đà từ cà phê Espresso. Tất cả tạo nên một hương vị đặc biệt, nhẹ nhàng, trầm lắng và tinh tế."
+    },
+    {
+      "id": 11,
+      "name": "Americano Nóng",
+      "image": "americanonong.jpg",
+      "category": "Cà Phê Máy",
+      "price": 39,
+      "quantity": 0,
+      "description": "Americano được pha chế bằng cách pha thêm nước với tỷ lệ nhất định vào tách cà phê Espresso, từ đó mang lại hương vị nhẹ nhàng và giữ trọn được mùi hương cà phê đặc trưng."
+    },
+    {
+      "id": 12,
+      "name": "Latte Đá",
+      "image": "latteda.jpg",
+      "category": "Cà Phê Máy",
+      "price": 49,
+      "quantity": 0,
+      "description": "Một sự kết hợp tinh tế giữa vị đắng cà phê Espresso nguyên chất hòa quyện cùng vị sữa nóng ngọt ngào, bên trên là một lớp kem mỏng nhẹ tạo nên một tách cà phê hoàn hảo về hương vị lẫn nhãn quan."
+    },
+    {
+      "id": "13",
+      "name": "Cold Brew Sữa Tươi",
+      "image": "coldbrewsuatuoi.jpg",
+      "category": "Cold Brew",
+      "price": 45,
+      "quantity": 0,
+      "description": "Thanh mát và cân bằng với hương vị cà phê nguyên bản 100% Arabica Cầu Đất cùng sữa tươi thơm béo cho từng ngụm tròn vị, hấp dẫn."
+    },
+    {
+      "name": "Cold Brew Truyền Thống",
+      "image": "coldbrewtruyenthong.jpg",
+      "category": "Cold Brew",
+      "description": "Tại The Coffee House, Cold Brew được ủ và phục vụ mỗi ngày từ 100% hạt Arabica Cầu Đất với hương gỗ thông, hạt dẻ, nốt sô-cô-la đặc trưng, thoang thoảng hương khói nhẹ giúp Cold Brew giữ nguyên vị tươi mới.",
+      "price": 45,
+      "quantity": 0,
+      "id": 1657955313073
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "title": "CÁCH NHẬN BIẾT HƯƠNG VỊ CÀ PHÊ ROBUSTA NGUYÊN CHẤT DỄ DÀNG NHẤT",
+      "description": "Cùng Arabica, Robusta cũng là loại cà phê nổi tiếng được sử dụng phổ biến...",
+      "date": "2022-06-27",
+      "content": "<p>Ở Việt Nam có rất nhiều vùng phù hợp để trồng giống Robusta, đặc biệt là Buôn Ma Thuột, Đắk Lắk, Lâm Đồng, Gia Lai, Đắk Nông,… Đây là những vùng đất mang đến hương vị cà phê Robusta nguyên chất ngon và nổi tiếng. Tuy nhiên, do sự khác biệt về thổ nhưỡng mà hương vị Robusta ở các vùng cũng có sự khác biệt tương đối. Những người sành cà phê, có gu thưởng thức tinh tế sẽ dễ dàng cảm nhận được sự khác biệt ấn tượng mà đầy thú vị này. </p> <p>Thấu hiểu sự đam mê và những cảm xúc kỳ diệu của các tín đồ cà phê khi được nhâm nhi những tách cà phê nguyên chất, đậm vị, The Coffee House đã cho ra đời cà phê Original 1. Sản phẩm có 100% thành phần là cà phê Robusta Đắk Lắk, vùng trồng cà phê ngon nhất Việt Nam. Bằng cách áp dụng kỹ thuật rang xay hiện đại, Cà phê Original 1 mang đến trải nghiệm tuyệt vời khi uống cà phê tại nhà với hương vị đậm đà truyền thống. </p>",
+      "hashtags": "#robusta, #caphe",
+      "images": [
+        "blog1-image1.jpg",
+        "blog1-image2.jpg"
+      ],
+      "imagesThumbnails": "blog1.jpg"
+    },
+    {
+      "title": "TẠI SAO CÀ PHÊ CÓ VỊ CHUA?",
+      "description": "Cà phê là cây có giá trị kinh tế cao khi nhu cầu tiêu thụ...",
+      "content": "<p>C&agrave; ph&ecirc; sẽ c&agrave;ng ngon khi được trồng ở v&ugrave;ng đất cao nguy&ecirc;n, nơi c&oacute; kh&iacute; hậu nhiệt đới n&oacute;ng ẩm, mưa nhiều, đất đai m&agrave;u mỡ. N&oacute; c&oacute; khả năng ph&aacute;t triển tốt ở nơi c&oacute; nhiều &aacute;nh s&aacute;ng, độ pH l&yacute; tưởng ở mức 6 - 6.5, đặc biệt để hạt c&agrave; ph&ecirc; cho năng suất v&agrave; chất lượng cao, cần phải lưu &yacute; c&aacute;c kỹ thuật&nbsp; trồng trọt sau.&nbsp;</p>\n\n<p>Arabica y&ecirc;u cầu đất c&oacute; độ dốc dưới 200, độ xốp tr&ecirc;n 60%, tầng đất mặt d&agrave;y tr&ecirc;n 70 cm, h&agrave;m lượng m&ugrave;n của lớp đất mặt tr&ecirc;n 2,5%. Đất phải c&oacute; độ cao từ 1000 &ndash; 1500m so với mặt nước biển, lượng mưa trung b&igrave;nh từ 1200 &ndash; 1900 mm, nhiệt độ từ 15 độ C &ndash; 24 độ C v&agrave; phải c&oacute; m&ugrave;a kh&ocirc; hạn tối thiểu 2 th&aacute;ng. C&ograve;n Robusta th&igrave; &iacute;t phức tạp hơn, n&oacute; th&iacute;ch hợp với kh&iacute; hậu nhiệt đới n&oacute;ng ẩm, nhiệt độ từ 24 độ C&nbsp;&ndash; 26 độ C, lượng mưa tr&ecirc;n 2000mm/năm v&agrave; c&oacute; độ ẩm cao.&nbsp;</p>\n",
+      "date": "2022-07-01",
+      "hashtags": "#caffee",
+      "images": "blog2-image1.jpg",
+      "imagesThumbnails": "blog7.jpg",
+      "id": 2
+    },
+    {
+      "title": "HIỂU ĐÚNG VỀ CÀ PHÊ HÒA TAN",
+      "description": "Uống cà phê hoà tan có tốt không chắc hẳn là câu hỏi mà nhiều...",
+      "content": "<p>C&agrave; ph&ecirc; h&ograve;a tan đ&atilde; qu&aacute; quen thuộc n&ecirc;n chắc chắn ai cũng biết đến n&oacute;. L&agrave; thức uống liền, c&agrave; ph&ecirc; ho&agrave; tan c&oacute; dạng bột nhuyễn, kết hợp sẵn với đường, sữa v&agrave; được tổng hợp qua c&aacute;c c&ocirc;ng đoạn sấy v&agrave; l&agrave;m kh&ocirc;. Khi bạn muốn thưởng thức chỉ cần pha c&agrave; ph&ecirc; ho&agrave; tan với nước n&oacute;ng l&agrave; c&oacute; thể d&ugrave;ng ngay lập tức. Sở dĩ c&agrave; ph&ecirc; ho&agrave; tan tan nhanh trong nước l&agrave; do qu&aacute; tr&igrave;nh chế biến đ&atilde; được chiết xuất v&agrave; giữ lại những chất tan được. C&ograve;n c&aacute;c th&agrave;nh phần kh&ocirc;ng tan v&agrave; tạp chất kh&aacute;c đ&atilde; được loại bỏ đi.&nbsp;</p>\n\n<p>C&agrave; ph&ecirc; ho&agrave; tan v&agrave; c&agrave; ph&ecirc; truyền thống sẽ c&oacute; sự kh&aacute;c biệt giữa h&igrave;nh thức, t&iacute;nh chất v&agrave; quy tr&igrave;nh thực hiện. Sự kh&aacute;c biệt về tốc độ pha chế v&agrave; t&iacute;nh tiện lợi l&agrave; điều nổi bật nhất m&agrave; ch&uacute;ng ta c&oacute; thể dễ d&agrave;ng thấy được. C&agrave; ph&ecirc; truyền thống đ&ograve;i hỏi kh&acirc;u pha chế phức tạp v&igrave; cần phải xay hạt hay sử dụng th&ecirc;m nhiều dụng cụ kh&aacute;c.&nbsp;</p>\n",
+      "date": "2022-07-09",
+      "hashtags": "#caffee, #hoatan",
+      "images": "blog3-image1.jpg",
+      "imagesThumbnails": "blog8.jpg",
+      "id": 3
+    }
+  ]
+}
